@@ -1,0 +1,27 @@
+[
+  {
+    "city": "Tokyo",
+    "country": "Japan", 
+    "description": "Tokyo is the capital and largest city of Japan."
+  },
+  {
+    "city": "London",
+    "country": "United Kingdom",
+    "description": "London is the capital and largest city of the UK."
+  },
+  {
+    "city": "Paris", 
+    "country": "France",
+    "description": "Paris is the capital and most populous city of France."
+  },
+  {
+    "city": "New York",
+    "country": "United States",
+    "description": "New York City is the most populous city in the US."
+  },
+  {
+    "city": "Beijing",
+    "country": "China",
+    "description": "Beijing is the capital of China."
+  }
+]
